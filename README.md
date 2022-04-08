@@ -4,7 +4,7 @@ Install and run script:
 2) Pepper Robot
 3) Expression Facial;
 
-Download the file and extract it to your Home Folder
+Download the file and extract it to your Personal Folder
 
 **Install script:**
 ``` 
