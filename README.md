@@ -1,15 +1,19 @@
-Install and run script: 
+ROS Kinetec, Gazebo 7, Ubuntu 16.04 
 
-1) Ros Melodic;
-2) Pepper Robot
-3) Expression Facial;
-
-Download the file and extract it to your Personal Folder
 
 **Install script:**
 ``` 
 $ sudo apt-get install dialog
-$ cd script
+$ cd scriptWheelchair
 $ chmod a+x -v *.sh
-$ ./execScript.sh
+$ ./inst.ros.Wheelchair.sh
 ```
+
+**Tutorials:**
+``` 
+$ cd scriptWheelchair
+$ ./inst.ros.Wheelchair.sh
+```
+[ROS Kinetic](https://youtu.be/E0INAo2YLFs)
+
+[Wheelchair](https://youtu.be/noQlOLALtgI)
